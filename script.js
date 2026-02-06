@@ -49,7 +49,6 @@ $(document).ready(function () {
 		},
 	})
 
-	// ✏️ EDYCJA
 	$('#Table tbody').on('click', '.edit', function () {
 		const row = table.row($(this).parents('tr'))
 		const data = row.data()
@@ -78,8 +77,8 @@ $(document).ready(function () {
 		row.data(data).draw()
 	})
 
-	// 🗑️ USUWANIE
 	$('#Table tbody').on('click', '.delete', function () {
 		table.row($(this).parents('tr')).remove().draw()
 	})
 })
+
