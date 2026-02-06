@@ -1,0 +1,202 @@
+[
+	{
+		"id": 1,
+		"imie": "Jan",
+		"nazwisko": "Kowalski",
+		"wiek": 18,
+		"email": "jan.kowalski@mail.pl",
+		"kierunek": "Informatyka"
+	},
+	{
+		"id": 2,
+		"imie": "Anna",
+		"nazwisko": "Nowak",
+		"wiek": 19,
+		"email": "anna.nowak@mail.pl",
+		"kierunek": "Programowanie"
+	},
+	{
+		"id": 3,
+		"imie": "Michał",
+		"nazwisko": "Wiśniewski",
+		"wiek": 17,
+		"email": "michal.w@mail.pl",
+		"kierunek": "Elektryk"
+	},
+	{
+		"id": 4,
+		"imie": "Katarzyna",
+		"nazwisko": "Wójcik",
+		"wiek": 18,
+		"email": "katarzyna.w@mail.pl",
+		"kierunek": "Grafika"
+	},
+	{
+		"id": 5,
+		"imie": "Piotr",
+		"nazwisko": "Kaczmarek",
+		"wiek": 20,
+		"email": "piotr.k@mail.pl",
+		"kierunek": "Informatyka"
+	},
+	{
+		"id": 6,
+		"imie": "Magdalena",
+		"nazwisko": "Mazur",
+		"wiek": 19,
+		"email": "magda.m@mail.pl",
+		"kierunek": "Programowanie"
+	},
+	{
+		"id": 7,
+		"imie": "Tomasz",
+		"nazwisko": "Krawczyk",
+		"wiek": 18,
+		"email": "tomasz.k@mail.pl",
+		"kierunek": "Elektryk"
+	},
+	{
+		"id": 8,
+		"imie": "Natalia",
+		"nazwisko": "Piotrowska",
+		"wiek": 17,
+		"email": "natalia.p@mail.pl",
+		"kierunek": "Grafika"
+	},
+	{
+		"id": 9,
+		"imie": "Paweł",
+		"nazwisko": "Grabowski",
+		"wiek": 20,
+		"email": "pawel.g@mail.pl",
+		"kierunek": "Informatyka"
+	},
+	{
+		"id": 10,
+		"imie": "Karolina",
+		"nazwisko": "Zając",
+		"wiek": 18,
+		"email": "karolina.z@mail.pl",
+		"kierunek": "Programowanie"
+	},
+
+	{ "id": 11, "imie": "Adam", "nazwisko": "Król", "wiek": 19, "email": "adam.k@mail.pl", "kierunek": "Elektryk" },
+	{ "id": 12, "imie": "Julia", "nazwisko": "Wieczorek", "wiek": 17, "email": "julia.w@mail.pl", "kierunek": "Grafika" },
+	{
+		"id": 13,
+		"imie": "Marcin",
+		"nazwisko": "Jabłoński",
+		"wiek": 20,
+		"email": "marcin.j@mail.pl",
+		"kierunek": "Informatyka"
+	},
+	{
+		"id": 14,
+		"imie": "Agnieszka",
+		"nazwisko": "Duda",
+		"wiek": 18,
+		"email": "agnieszka.d@mail.pl",
+		"kierunek": "Programowanie"
+	},
+	{ "id": 15, "imie": "Łukasz", "nazwisko": "Pawlak", "wiek": 19, "email": "lukasz.p@mail.pl", "kierunek": "Elektryk" },
+	{
+		"id": 16,
+		"imie": "Monika",
+		"nazwisko": "Michalska",
+		"wiek": 17,
+		"email": "monika.m@mail.pl",
+		"kierunek": "Grafika"
+	},
+	{
+		"id": 17,
+		"imie": "Sebastian",
+		"nazwisko": "Nowicki",
+		"wiek": 20,
+		"email": "sebastian.n@mail.pl",
+		"kierunek": "Informatyka"
+	},
+	{
+		"id": 18,
+		"imie": "Patrycja",
+		"nazwisko": "Adamczyk",
+		"wiek": 18,
+		"email": "patrycja.a@mail.pl",
+		"kierunek": "Programowanie"
+	},
+	{
+		"id": 19,
+		"imie": "Krzysztof",
+		"nazwisko": "Dąbrowski",
+		"wiek": 19,
+		"email": "krzysztof.d@mail.pl",
+		"kierunek": "Elektryk"
+	},
+	{
+		"id": 20,
+		"imie": "Aleksandra",
+		"nazwisko": "Lis",
+		"wiek": 17,
+		"email": "aleksandra.l@mail.pl",
+		"kierunek": "Grafika"
+	},
+
+	{
+		"id": 21,
+		"imie": "Rafał",
+		"nazwisko": "Kamiński",
+		"wiek": 20,
+		"email": "rafal.k@mail.pl",
+		"kierunek": "Informatyka"
+	},
+	{
+		"id": 22,
+		"imie": "Weronika",
+		"nazwisko": "Kołodziej",
+		"wiek": 18,
+		"email": "weronika.k@mail.pl",
+		"kierunek": "Programowanie"
+	},
+	{ "id": 23, "imie": "Damian", "nazwisko": "Sikora", "wiek": 19, "email": "damian.s@mail.pl", "kierunek": "Elektryk" },
+	{ "id": 24, "imie": "Paulina", "nazwisko": "Baran", "wiek": 17, "email": "paulina.b@mail.pl", "kierunek": "Grafika" },
+	{
+		"id": 25,
+		"imie": "Mateusz",
+		"nazwisko": "Czarnecki",
+		"wiek": 20,
+		"email": "mateusz.c@mail.pl",
+		"kierunek": "Informatyka"
+	},
+	{
+		"id": 26,
+		"imie": "Natalia",
+		"nazwisko": "Szulc",
+		"wiek": 18,
+		"email": "natalia.s@mail.pl",
+		"kierunek": "Programowanie"
+	},
+	{
+		"id": 27,
+		"imie": "Bartosz",
+		"nazwisko": "Urban",
+		"wiek": 19,
+		"email": "bartosz.u@mail.pl",
+		"kierunek": "Elektryk"
+	},
+	{ "id": 28, "imie": "Oliwia", "nazwisko": "Kubiak", "wiek": 17, "email": "oliwia.k@mail.pl", "kierunek": "Grafika" },
+	{
+		"id": 29,
+		"imie": "Przemysław",
+		"nazwisko": "Maciejewski",
+		"wiek": 20,
+		"email": "przemek.m@mail.pl",
+		"kierunek": "Informatyka"
+	},
+	{
+		"id": 30,
+		"imie": "Dominika",
+		"nazwisko": "Sadowska",
+		"wiek": 18,
+		"email": "dominika.s@mail.pl",
+		"kierunek": "Programowanie"
+	}
+]
